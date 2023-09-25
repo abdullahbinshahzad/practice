@@ -1,0 +1,16 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav ul.list{
+    background-color: #ababab;
+    text-align: center;
+}
+nav ul.list li{
+    display: inline-block;
+    margin: 5px 10px;
+}
+article h2{
+    margin-block: 0px;
+}

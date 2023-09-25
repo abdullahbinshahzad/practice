@@ -1,0 +1,6 @@
+p:first-child{
+    color: rebeccapurple;
+}
+p:first-of-type{
+    color: red;
+}
