@@ -1,5 +1,5 @@
 p:nth-child(3){
-    /* color: yellow; */
+    color: yellow;
 }
 
 p:nth-child(2n){
