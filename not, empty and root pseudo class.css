@@ -1,3 +1,27 @@
 body :not(p){
-    color: tomato;
+    /* color: tomato; */
+}
+:not(p){
+    /* color: blue; */
+}
+body :not(.fancy){
+    /* color: tomato; */
+}
+div:empty{
+    /* background-color: black;
+    border: 5px groove darkkhaki;
+    height: 9px; */
+}
+html{
+    background-color: violet;
+    color: blueviolet;
+}
+:root{/*root will be used in future when we create css variables, specificity of root is more than html, root/html/body have same working*/
+    background-color: violet;
+    color: black;
+}
+body{
+    background-color: lawngreen;
+    color: black;
+}
 }
