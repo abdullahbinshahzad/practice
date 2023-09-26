@@ -3,16 +3,16 @@ p:nth-child(3){
 }
 
 p:nth-child(2n){
-    /* color: brown; */
+    color: brown;
 }
 p:nth-child(2n+1){
-    /* color: magenta; */
+    color: magenta;
 }
 p:nth-of-type(2){
-    /* color: aqua; */
+    color: aqua;
 }
 p:nth-of-type(2n){
-    /* color: aqua; */
+    color: aqua;
 }
 p:nth-of-type(2n+1){
     color: violet;
